@@ -4,3 +4,5 @@
 Para ejecutar sistema:
 
 ```npm install react```
+
+Proyecto Practica 2
